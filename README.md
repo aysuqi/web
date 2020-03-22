@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # webapp
 
 ## Project setup
@@ -22,3 +23,6 @@ yarn lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+# caroweb
+>>>>>>> dc536aedc1902c123d3d75bdd84c5c41c200fc42
