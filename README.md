@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # webapp
 
 ## Project setup
@@ -26,3 +27,6 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 =======
 # caroweb
 >>>>>>> dc536aedc1902c123d3d75bdd84c5c41c200fc42
+=======
+# web
+>>>>>>> bfd62296a2bdcc24948e4b439031ba700a0842c1
